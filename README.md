@@ -46,7 +46,7 @@ The report is built on the `Bank_Churn` dataset and structured across **5 intera
 
 ### 3. Financial Analysis
 
-<img width="1316" height="789" alt="Financial analysis" src="https://github.com/user-attachments/assets/33b2b537-9fb8-4867-b755-528e2aadb33d" />
+<img width="1316" height="787" alt="Financial analysis" src="https://github.com/user-attachments/assets/bf5206bf-a6e5-44ae-92c1-a4240caeede9" />
 
 
 ### Financial profile of churned customers and revenue implications.
