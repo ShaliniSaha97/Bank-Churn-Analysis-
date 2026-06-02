@@ -84,7 +84,8 @@ The report is built on the `Bank_Churn` dataset and structured across **5 intera
 
 ### 5. Customer Details
 
-<img width="1306" height="789" alt="Customer Details (drill through)" src="https://github.com/user-attachments/assets/528fc0c2-2bb5-436e-b3d2-ad407b81a350" />
+
+<img width="1320" height="787" alt="Customer Details (drill through)" src="https://github.com/user-attachments/assets/7054f4bd-ce1a-4ce4-b7c5-34d6e099bed4" />
 
 
 ### Granular, row-level customer data for drill-through and investigation.
